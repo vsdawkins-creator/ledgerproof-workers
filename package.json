@@ -1,7 +1,7 @@
 {
   "name": "@ledgerproof/workers",
-  "version": "1.0.0",
-  "description": "Cloudflare Workers binding for LedgerProof \u2014 auto-issue Article 50 receipts from edge inference.",
+  "version": "1.0.1",
+  "description": "Cloudflare Workers binding for LedgerProof — auto-issue Article 50 receipts from edge inference.",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
